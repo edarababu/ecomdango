@@ -8,3 +8,4 @@ print('helloo    again')
 print('hello')
 
 "atul"
+a=10
