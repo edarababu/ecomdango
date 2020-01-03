@@ -9,3 +9,4 @@ print('hello')
 
 "atul"
 a=10
+print(a)
